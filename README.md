@@ -1,3 +1,16 @@
+# Навигация по практическим работам по предмету 'Базы данных' 2 курса
+
+1 семестр:
+
+* Практическая 1
+* Практическая 2
+
+2 семестр:
+
+* Практическая 1 - [Анализ продаж в магазине](https://github.com/Archive-of-practical-work-for-the-PRUE/Homework-SQL/tree/main)
+* Практическая 2 - [Отчет по успеваемости студента](https://github.com/Archive-of-practical-work-for-the-PRUE/Homework-SQL/tree/grade)
+* Практическая 3 - [Расписание для группы](https://github.com/Archive-of-practical-work-for-the-PRUE/Homework-SQL/tree/shedule)
+
 # Практическая работа 1 - Анализ продаж в магазине
 
 ## Задание
